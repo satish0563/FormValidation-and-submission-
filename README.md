@@ -1,5 +1,6 @@
-# FormValidation-and-submission-
-Form Validation and submission 
+# FormValidation React JS 
+FormValidation React JS 
+
 In the project directory,Install npm
 
 npm install
